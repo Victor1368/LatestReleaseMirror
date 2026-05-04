@@ -157,52 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="hidden-node--gooserelayvpn-androidclient"></div>
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
-### Hidden-Node--GooseRelayVPN-AndroidClient
+### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.1</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.1)
-
-| File | Size | Download |
-|------|------|----------|
-| `GooseRelayVPN-HN-1.0.1-arm64-v8a-release.apk` | 10.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.1-arm64-v8a-release.apk) |
-
----
-
-<div id="karingx--karing"></div>
-
-### KaringX--karing
-
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.18.2102</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.18.2102)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.10</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.10)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
-| `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
-
----
-
-<div id="nulllatency--flowdriver"></div>
-
-### NullLatency--FlowDriver
-
-🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `flow-driver-v0.0.4-darwin-amd64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) |
-| `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
-
----
-
-<div id="masterking32--masterdnsvpn"></div>
-
-### masterking32--MasterDnsVPN
-
-🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.04.123456-38b73de</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.04.123456-38b73de)
-
-| File | Size | Download |
-|------|------|----------|
-| `MasterDnsVPN_Client_Termux_ARM64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARM64.zip) |
-| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+| `mhrv-rs-android-arm64-v8a-v1.9.10.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.10.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.10.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.10.apk) |
+| `mhrv-rs-android-universal-v1.9.10.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.10.apk) |
+| `mhrv-rs-android-x86_64-v1.9.10.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.10.apk) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
