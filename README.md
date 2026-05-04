@@ -157,5 +157,40 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="karingx--karing"></div>
 
+### KaringX--karing
+
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.18.2102</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.18.2102)
+
+| File | Size | Download |
+|------|------|----------|
+| `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
+| `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
+
+---
+
+<div id="nulllatency--flowdriver"></div>
+
+### NullLatency--FlowDriver
+
+🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `flow-driver-v0.0.4-darwin-amd64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) |
+| `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
+
+---
+
+<div id="masterking32--masterdnsvpn"></div>
+
+### masterking32--MasterDnsVPN
+
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.04.123456-38b73de</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.04.123456-38b73de)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN_Client_Termux_ARM64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARM64.zip) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
 <!-- RELEASES_END -->
