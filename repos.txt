@@ -7,17 +7,19 @@
 # therealaleph/MasterHttpRelayVPN-RUST
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
-NullLatency/FlowDriver|linux-amd64|darwin-amd64
+# NullLatency/FlowDriver|linux-amd64|darwin-amd64
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
 # SagerNet/sing-box|windows-amd64|darwin-amd64.tar.gz|darwin-arm64|arm64-v8a.apk
 
 # 4. Only specific file extensions (use .dmg and .exe – backslashes for literal dot)
-KaringX/karing|\.dmg|\.exe
+# KaringX/karing|\.dmg|\.exe
 
 # 5. Disable a line by commenting it with #
 # masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
 
-masterking32/MasterDnsVPN|Client_Termux_ARM64.zip|Client_Windows_AMD64.zip
+# masterking32/MasterDnsVPN|Client_Termux_ARM64.zip|Client_Windows_AMD64.zip
 
-Hidden-Node/GooseRelayVPN-AndroidClient|GooseRelayVPN-HN-1.0.1-arm64-v8a-release.apk
+# Hidden-Node/GooseRelayVPN-AndroidClient|GooseRelayVPN-HN-1.0.1-arm64-v8a-release.apk
+
+therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-android-arm64-v8a-v1.9.10.apk|mhrv-rs-windows-amd64.zip|mhrv-rs-openwrt-mipsel-softfloat.tar.gz|mhrv-rs-android-armeabi-v7a-v1.9.10.apk|mhrv-rs-android-universal-v1.9.10.apk|mhrv-rs-android-x86_64-v1.9.10.apk
