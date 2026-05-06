@@ -178,4 +178,17 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `mhr-cfw-go.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go.exe) |
+
+---
+
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
+
+### therealaleph--MasterHttpRelayVPN-RUST
+
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.14</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.14)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
