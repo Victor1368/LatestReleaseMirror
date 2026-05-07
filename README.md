@@ -169,26 +169,18 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="thisisdara--mhr-cfw-go"></div>
-
-### ThisIsDara--mhr-cfw-go
-
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.1.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.1.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `mhr-cfw-go.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go.exe) |
-
----
-
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.14</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.14)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.15</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.15)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-android-arm64-v8a-v1.9.15.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.15.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.15.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.15.apk) |
+| `mhrv-rs-android-universal-v1.9.15.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.15.apk) |
+| `mhrv-rs-android-x86_64-v1.9.15.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.15.apk) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
