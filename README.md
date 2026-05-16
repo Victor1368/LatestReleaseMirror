@@ -161,11 +161,139 @@ sha256sum FILE_NAME
 
 ### IRNova--Nova-Proxy-App
 
-🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.0.0</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.0.0)
+🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.1.1</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.1.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `Nova.App.V1.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/Nova.App.V1.zip) |
+| `NovaProxy.exe` | 28.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/NovaProxy.exe) |
+
+---
+
+<div id="thisisdara--mhr-cfw-go"></div>
+
+### ThisIsDara--mhr-cfw-go
+
+🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.4.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.4.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhr-cfw-go-darwin-amd64` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-darwin-amd64) |
+| `mhr-cfw-go-darwin-arm64` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-darwin-arm64) |
+| `mhr-cfw-go-linux-amd64` | 6.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-linux-amd64) |
+| `mhr-cfw-go-linux-arm64` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-linux-arm64) |
+| `mhr-cfw-go-windows-386.exe` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-386.exe) |
+| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
+
+---
+
+<div id="anonvector--slipnet"></div>
+
+### anonvector--SlipNet
+
+🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `SlipNet-v2.5.3-full-release-arm64-v8a.apk` | 25.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-arm64-v8a.apk) |
+| `SlipNet-v2.5.3-full-release-armeabi-v7a.apk` | 24.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-armeabi-v7a.apk) |
+| `SlipNet-v2.5.3-full-release-universal.apk` | 54.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-universal.apk) |
+| `SlipNet-v2.5.3-full-release-x86_64.apk` | 13.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-x86_64.apk) |
+| `SlipNet-v2.5.3-lite-release-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) |
+| `SlipNet-v2.5.3-lite-release-armeabi-v7a.apk` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-armeabi-v7a.apk) |
+| `SlipNet-v2.5.3-lite-release-universal.apk` | 22.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-universal.apk) |
+| `SlipNet-v2.5.3-lite-release-x86_64.apk` | 11.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-x86_64.apk) |
+| `slipnet-darwin-amd64` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-darwin-amd64) |
+| `slipnet-darwin-arm64` | 9.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-darwin-arm64) |
+| `slipnet-linux-amd64` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-linux-amd64) |
+| `slipnet-linux-arm64` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-linux-arm64) |
+| `slipnet-linux-armv7` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-linux-armv7) |
+| `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-windows-amd64.exe) |
+
+---
+
+<div id="masterking32--masterdnsvpn"></div>
+
+### masterking32--MasterDnsVPN
+
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.10.180256-27c7e11</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.10.180256-27c7e11)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN_Client_Linux-Legacy_AMD64.tar.gz` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux-Legacy_AMD64.tar.gz) |
+| `MasterDnsVPN_Client_Linux-Legacy_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux-Legacy_AMD64.zip) |
+| `MasterDnsVPN_Client_Linux-Legacy_ARM64.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux-Legacy_ARM64.tar.gz) |
+| `MasterDnsVPN_Client_Linux-Legacy_ARM64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux-Legacy_ARM64.zip) |
+| `MasterDnsVPN_Client_Linux_AMD64.tar.gz` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_AMD64.tar.gz) |
+| `MasterDnsVPN_Client_Linux_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_AMD64.zip) |
+| `MasterDnsVPN_Client_Linux_ARM64.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARM64.tar.gz) |
+| `MasterDnsVPN_Client_Linux_ARM64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARM64.zip) |
+| `MasterDnsVPN_Client_Linux_ARMV5.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV5.tar.gz) |
+| `MasterDnsVPN_Client_Linux_ARMV5.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV5.zip) |
+| `MasterDnsVPN_Client_Linux_ARMV6.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV6.tar.gz) |
+| `MasterDnsVPN_Client_Linux_ARMV6.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV6.zip) |
+| `MasterDnsVPN_Client_Linux_ARMV7.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV7.tar.gz) |
+| `MasterDnsVPN_Client_Linux_ARMV7.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV7.zip) |
+| `MasterDnsVPN_Client_Linux_MIPS.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS.tar.gz) |
+| `MasterDnsVPN_Client_Linux_MIPS.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS.zip) |
+| `MasterDnsVPN_Client_Linux_MIPS64.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS64.tar.gz) |
+| `MasterDnsVPN_Client_Linux_MIPS64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS64.zip) |
+| `MasterDnsVPN_Client_Linux_MIPS64LE.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS64LE.tar.gz) |
+| `MasterDnsVPN_Client_Linux_MIPS64LE.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS64LE.zip) |
+| `MasterDnsVPN_Client_Linux_MIPSLE.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPSLE.tar.gz) |
+| `MasterDnsVPN_Client_Linux_MIPSLE.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPSLE.zip) |
+| `MasterDnsVPN_Client_Linux_RISCV64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_RISCV64.tar.gz) |
+| `MasterDnsVPN_Client_Linux_RISCV64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_RISCV64.zip) |
+| `MasterDnsVPN_Client_Linux_X86.tar.gz` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_X86.tar.gz) |
+| `MasterDnsVPN_Client_Linux_X86.zip` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_X86.zip) |
+| `MasterDnsVPN_Client_MacOS_AMD64.tar.gz` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_AMD64.tar.gz) |
+| `MasterDnsVPN_Client_MacOS_AMD64.zip` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_AMD64.zip) |
+| `MasterDnsVPN_Client_MacOS_ARM64.tar.gz` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_ARM64.tar.gz) |
+| `MasterDnsVPN_Client_MacOS_ARM64.zip` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_ARM64.zip) |
+| `MasterDnsVPN_Client_Termux_ARM64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARM64.tar.gz) |
+| `MasterDnsVPN_Client_Termux_ARM64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARM64.zip) |
+| `MasterDnsVPN_Client_Termux_ARMV7.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARMV7.tar.gz) |
+| `MasterDnsVPN_Client_Termux_ARMV7.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARMV7.zip) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+| `MasterDnsVPN_Client_Windows_ARM64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_ARM64.zip) |
+| `MasterDnsVPN_Client_Windows_X86.zip` | 3.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_X86.zip) |
+| `MasterDnsVPN_Server_Linux-Legacy_AMD64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux-Legacy_AMD64.tar.gz) |
+| `MasterDnsVPN_Server_Linux-Legacy_AMD64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux-Legacy_AMD64.zip) |
+| `MasterDnsVPN_Server_Linux-Legacy_ARM64.tar.gz` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux-Legacy_ARM64.tar.gz) |
+| `MasterDnsVPN_Server_Linux-Legacy_ARM64.zip` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux-Legacy_ARM64.zip) |
+| `MasterDnsVPN_Server_Linux_AMD64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_AMD64.tar.gz) |
+| `MasterDnsVPN_Server_Linux_AMD64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_AMD64.zip) |
+| `MasterDnsVPN_Server_Linux_ARM64.tar.gz` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARM64.tar.gz) |
+| `MasterDnsVPN_Server_Linux_ARM64.zip` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARM64.zip) |
+| `MasterDnsVPN_Server_Linux_ARMV5.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV5.tar.gz) |
+| `MasterDnsVPN_Server_Linux_ARMV5.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV5.zip) |
+| `MasterDnsVPN_Server_Linux_ARMV6.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV6.tar.gz) |
+| `MasterDnsVPN_Server_Linux_ARMV6.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV6.zip) |
+| `MasterDnsVPN_Server_Linux_ARMV7.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV7.tar.gz) |
+| `MasterDnsVPN_Server_Linux_ARMV7.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV7.zip) |
+| `MasterDnsVPN_Server_Linux_MIPS.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS.tar.gz) |
+| `MasterDnsVPN_Server_Linux_MIPS.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS.zip) |
+| `MasterDnsVPN_Server_Linux_MIPS64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS64.tar.gz) |
+| `MasterDnsVPN_Server_Linux_MIPS64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS64.zip) |
+| `MasterDnsVPN_Server_Linux_MIPS64LE.tar.gz` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS64LE.tar.gz) |
+| `MasterDnsVPN_Server_Linux_MIPS64LE.zip` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS64LE.zip) |
+| `MasterDnsVPN_Server_Linux_MIPSLE.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPSLE.tar.gz) |
+| `MasterDnsVPN_Server_Linux_MIPSLE.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPSLE.zip) |
+| `MasterDnsVPN_Server_Linux_RISCV64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_RISCV64.tar.gz) |
+| `MasterDnsVPN_Server_Linux_RISCV64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_RISCV64.zip) |
+| `MasterDnsVPN_Server_Linux_X86.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_X86.tar.gz) |
+| `MasterDnsVPN_Server_Linux_X86.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_X86.zip) |
+| `MasterDnsVPN_Server_MacOS_AMD64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_MacOS_AMD64.tar.gz) |
+| `MasterDnsVPN_Server_MacOS_AMD64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_MacOS_AMD64.zip) |
+| `MasterDnsVPN_Server_MacOS_ARM64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_MacOS_ARM64.tar.gz) |
+| `MasterDnsVPN_Server_MacOS_ARM64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_MacOS_ARM64.zip) |
+| `MasterDnsVPN_Server_Termux_ARM64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Termux_ARM64.tar.gz) |
+| `MasterDnsVPN_Server_Termux_ARM64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Termux_ARM64.zip) |
+| `MasterDnsVPN_Server_Termux_ARMV7.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Termux_ARMV7.tar.gz) |
+| `MasterDnsVPN_Server_Termux_ARMV7.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Termux_ARMV7.zip) |
+| `MasterDnsVPN_Server_Windows_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Windows_AMD64.zip) |
+| `MasterDnsVPN_Server_Windows_ARM64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Windows_ARM64.zip) |
+| `MasterDnsVPN_Server_Windows_X86.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Windows_X86.zip) |
+| `SHA256SUMS.txt` | 10 KB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/SHA256SUMS.txt) |
 
 ---
 
@@ -173,17 +301,17 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.24</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.24)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.28</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.28)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.24.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.24.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.24.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.24.apk) |
-| `mhrv-rs-android-universal-v1.9.24.apk` | 41.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.24.apk) |
-| `mhrv-rs-android-x86-v1.9.24.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.24.apk) |
-| `mhrv-rs-android-x86_64-v1.9.24.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.24.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-android-arm64-v8a-v1.9.28.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.28.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.28.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.28.apk) |
+| `mhrv-rs-android-universal-v1.9.28.apk` | 41.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.28.apk) |
+| `mhrv-rs-android-x86-v1.9.28.apk` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.28.apk) |
+| `mhrv-rs-android-x86_64-v1.9.28.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.28.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
 | `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
 | `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
