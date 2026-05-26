@@ -161,11 +161,11 @@ sha256sum FILE_NAME
 
 ### IRNova--Nova-Proxy-App
 
-🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.1.1</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.1.1)
+🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.2</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `NovaProxy.exe` | 28.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/NovaProxy.exe) |
+| `NovaProxy.exe` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/NovaProxy.exe) |
 
 ---
 
@@ -301,24 +301,24 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.33</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.33)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.35</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.35)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.33.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.33.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.33.apk` | 16.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.33.apk) |
-| `mhrv-rs-android-universal-v1.9.33.apk` | 44.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.33.apk) |
-| `mhrv-rs-android-x86-v1.9.33.apk` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.33.apk) |
-| `mhrv-rs-android-x86_64-v1.9.33.apk` | 20.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.33.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 10.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
-| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
-| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
-| `mhrv-rs-macos-amd64-app.zip` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-amd64.tar.gz` | 7.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
-| `mhrv-rs-macos-arm64-app.zip` | 4.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 7.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
-| `mhrv-rs-raspbian-armhf.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 8.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-android-arm64-v8a-v1.9.35.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.35.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.35.apk` | 17.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.35.apk) |
+| `mhrv-rs-android-universal-v1.9.35.apk` | 45.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.35.apk) |
+| `mhrv-rs-android-x86-v1.9.35.apk` | 20.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.35.apk) |
+| `mhrv-rs-android-x86_64-v1.9.35.apk` | 20.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.35.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
+| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
+| `mhrv-rs-macos-amd64-app.zip` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
+| `mhrv-rs-macos-amd64.tar.gz` | 8.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
+| `mhrv-rs-macos-arm64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
+| `mhrv-rs-macos-arm64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-raspbian-armhf.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 8.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Victor1368/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
